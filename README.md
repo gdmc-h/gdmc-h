@@ -1,17 +1,69 @@
-## Hello! 👋 I'm Giuseppe 🧒
+<img id="cover" src="./imgs/wave.svg">
+<div id="profile-container">
+<h1> Hello! I'm Giuseppe 👋🏻 🧑🏻‍💻</h1>
 
-I'm a 25 y/o web developer currently living in Italy :it:
+<section id="badge-container">
+<div class="badge">
 
-I founded [Studio Haiku](https://studiohaiku.it), a **small** software house, in January 2020 with the goal to become a better programmer while helping businesses to grow.
+![Skype](https://img.shields.io/badge/live:gdmc_16-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
+</div>
+<div class="badge">
 
-As of today I'm maintaining a PHP + Typescript framework, called **PurrNet** (the source code will soon be available under GPL 3), which run self-hosted management softwares I developed for some of my clients.
+![Instagram](https://img.shields.io/badge/@gdmc_h-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
+</div>
 
-Nevertheless I ❤️ React.
+<div class="badge">
 
-### Tech I use while working on projects
+![Twitter](https://img.shields.io/badge/@gdamico_-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+</div>
+</section>
+I'm a front-end engineer currently working with <b>DST</b> and <b>Accenture</b>.
 
-* Figma
-* HTML5/CSS3
-* React/Native/Redux/Styled Components
-* Rust
-* Firebase
+I have developed apps for companies all over Italy and I have collaborated with entrepreneurs who, thanks to my works, have reached and exceeded their goals.  
+
+"Do it... better" is the philosophy with which I approach each project.
+
+### TL;DR
+<section style="font-size: 18px;">
+<ul>
+<li>
+<p>Front-end engineer <a href="https://dstech.it" target="_blank">@dst</a></p>
+</li>
+<li>
+<p>Currently working for <a href="https://accenture.com" target="_blank">@Accenture</a></p>
+</li>
+<li>
+<p>React, Type/Javascript, Clojure</p>
+</li>
+</ul>
+</section>
+</div>
+
+
+
+<style>
+	#profile-container {
+		color: #100D0F;
+		padding: 20px;
+	}
+	#cover {
+		margin-bottom: -30px;
+	}
+	#badge-container {
+		display: flex; 
+		align-items: center; 
+		flex-direction:row;
+		justify-content: center;
+		padding: 20px 0;
+	}
+	.badge {
+		margin-right: 5px;
+	}
+
+	#stats {
+		display: flex;
+		justify-content: center;
+		padding: 20px 0;
+	}
+
+</style>
