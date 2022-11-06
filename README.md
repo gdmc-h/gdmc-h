@@ -38,32 +38,3 @@ I have developed apps for companies all over Italy and I have collaborated with 
 </ul>
 </section>
 </div>
-
-
-
-<style>
-	#profile-container {
-		color: #100D0F;
-		padding: 20px;
-	}
-	#cover {
-		margin-bottom: -30px;
-	}
-	#badge-container {
-		display: flex; 
-		align-items: center; 
-		flex-direction:row;
-		justify-content: center;
-		padding: 20px 0;
-	}
-	.badge {
-		margin-right: 5px;
-	}
-
-	#stats {
-		display: flex;
-		justify-content: center;
-		padding: 20px 0;
-	}
-
-</style>
